@@ -4,32 +4,40 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://srchilde-coder.github.io/Telling-Stories-with-Data/
+- This repository: https://github.com/srchilde-coder/Telling-Stories-with-Data/
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+## About me
+Hi! My name is Samantha Childers and I am a current Master of Arts Management student at Carnegie Mellon University. As part of my studies, I have taken an interest in how to effectively communicate data with patrons, stakeholders, and audiences. Throughout this course, I hope to strength my storytelling abilities by creating effective and meaningful data visualizations. 
+
+Prior to attending CMU, I taught high school chorus in North Carolina for 6 years. I also did a significant amount of work with Community arts, including community youth musical theater. I began to picture a new career for myself, one where I could expand my reach and impact within communities, while still continuing to work in music education and performance. My goal coming out of my Masters degree is to work in a performing arts nonprofit organization, potentially in education, community outreach, development, or even operations. I am using my time at CMU to learn as much as I can and to engage in all unique experiences possible. 
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. What types of graphcis work best for different types of data or fields
+2. Ways I can incorporate more data visualizations into the Arts Field
+3. How to use new technologies and online tools to create graphics
 
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+Sketching exercises
+
+Critiques
+
+Data Visualization 1
+
+Data Visualization 2
+
+Data Visualization 3&4
+
+Data Visualization 5
+
+Final Project
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -51,6 +59,9 @@ Part III(final-project-part-three)
 You can change text, like this: 
 
 **Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+
+# practice:
+**Bold text** *italic* ~~strikethrough~~
 
 ### Creating tables
 
