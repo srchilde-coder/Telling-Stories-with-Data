@@ -86,11 +86,10 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 Here's an example of how to add an image to my portfolio.  
 ![1](https://github.com/user-attachments/assets/ca0d6929-4e58-4d05-8eff-81ede4559cd7)
+*might need to review more on how to do this*
  
 
 Alternately, you can set the size of the image using just a bit of HTML: 
-<img src="![1](https://github.com/user-attachments/assets/255a7872-a8b5-4ee2-9272-0fcc6d446ce8)
-.jpg" width= "200"/>
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
 
