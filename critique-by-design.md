@@ -27,36 +27,40 @@ I think moved into a few simple sketch ideas. My instinct was to do a bar chart,
 
 I realized that drawing each of these by hand was not going to lead to the precision I wanted, especially with a stacked bar chart visualization model- so I turned to Tableau. 
 
+There were things that I ideally would fix, including changing the vertial country names to have a slant, moving the x axis lable to the bottom of the graph. 
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+When getting feedback from my peers, I decided not to prompt them with any questions at first, but simply showing them the data visualization. My intention here was to make sure that my graphic could speak for itself. If questions naturally came up, I would immediately see which aspects could be improved.
 
-Questions to ask (modify these for your own interviews): 
+Once I recieved feedback (listed below in the table) I asked more specific questions, like:
 
-- Can you tell me what you think this is?
+1) Is the title clear?
+2) Does the subtitle help add context?
+3) Would it be helpful to put an example of how to interpret the graphic in the comments at the bottom? Or does this mean that the graphic cannot speak for itself?
+4) Do the percentages confuse you?
+5) Are the axises clear? Should I switch them. 
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
-
-| Interviewee | Feedback 1 | Feedback 2 | Feedback 3 |
-|-------------|------------|------------|------------|
+| Interviewee | Feedback 1 | Feedback 2 |
+|-------------|------------|------------|
 |  Student 1  |    The vertical position of the country names made it difficult to read, is it possible to put them at a slant?    |     I had to think twice about whether the title meant people or households, but the subtitle helped    | 
-|  Student 2  |      Because the data adds up to over 100% and the data isn't showing how many people in each country own a pet, but specific pets, what if you separated the pet categories to be side by side?       |  Could switching the columns and rows help to be able to read the countries better?  | Is there a reason you chose to organize your data this way?- showing dogs?
-|  Student 3  |    It is difficult to differentiate between the shade of blue and green- increased contrast or intentsity would help         |             |
+|  Student 2  |      Because the data adds up to over 100% and the data isn't showing how many people in each country own a pet, but specific pets, what if you separated the pet categories to be side by side?       |  Could switching the columns and rows help to be able to read the countries better?  | Is there a reason you chose to organize your data this way?- showing dogs?  |
+|  Student 3  |    It is difficult to differentiate between the shade of blue and green- increased contrast would help        |   is you separate the pet categories, it is easier to see the differences in the colors     |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From this feedback from my peers, I realized that overall I had an ok visualization and it was aligned with the story I wanted to tell. What was consistent was that the stacked bar graph wasn't working with this data, for a few reasons
+1) the data wasn't about the percentage of people who own a pet in each country, but the percentage of people who owned specific categories of pets each kind of pet
+2) the data added up to over 100%- which made sense after a few minutes, but wasn't initially intuitive as to why
+3) there was the possibility for overlap between pet categories- people could own multiple types of pets
+4) the stacked bar graph leads you to look for the country that owns the most pets, which is not what the data represents
+
+All of the interviewees agreed that a version of a side by side bar chart might work better- so I tried that!
+
 
 ## Step five: build the solution
 
