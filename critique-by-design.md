@@ -9,14 +9,23 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-This was the original data visualization.
+After looking through the different data sets and articles on the Makeover Monday website, I decided to go with one that had a topic that peaked my interest- pets. This was the original data visualization.
 <img width="1702" height="816" alt="image" src="https://github.com/user-attachments/assets/2f42c8b4-4fb7-4d6a-a277-38e2f016f7c5" />
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+There were many things that I liked about this visualization:
+
+At the same time, there were many things that were not working for this visualization.
+
+After reading Stephan Few's model on Effective Data Visualization, I can to the conclusion that this visualization was
 
 ## Step three: Sketch a solution
+I first started by writing out what I though the original graphic was trying to accomplish- comparison of countries and comparison of pets within countries. I also realized that this data was more declarative than it was exploratory, and more data driven than conceptual- which led me to categorize this data visualization as an 'Everyday Data Viz', as referenced in the Good Charts textbook. 
+
+I think moved into a few simple sketch ideas. My instinct was to do a bar chart, as this would allow the audience to make quick comparisons. 
+
+I realized that drawing each of these by hand was not going to lead to the precision I wanted, especially with a stacked bar chart visualization model- so I turned to Tableau. 
 
 ## Step four: Test the solution
 
@@ -39,11 +48,11 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Interviewee | Feedback 1 | Feedback 2 | Feedback 3 |
+|-------------|------------|------------|------------|
+|  Student 1  |    The vertical position of the country names made it difficult to read    |     I had to think twice about whether the title meant people or households, but the subtitle helped        |
+|  Student 2  |      Because the data adds up to over 100% and the data isn't showing how many people in each country own a pet, but specific pets, what if you separated the pet categories to be side by side?       |  Could switching the columns and rows help to be able to read the countries better?           |
+|  Student 3  |    It is difficult to differentiate between the shade of blue and green- increased contrast or intentsity would help         |             |
 
 Synthesis: 
 
