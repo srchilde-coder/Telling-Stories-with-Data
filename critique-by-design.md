@@ -50,8 +50,8 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Interviewee | Feedback 1 | Feedback 2 | Feedback 3 |
 |-------------|------------|------------|------------|
-|  Student 1  |    The vertical position of the country names made it difficult to read    |     I had to think twice about whether the title meant people or households, but the subtitle helped        |
-|  Student 2  |      Because the data adds up to over 100% and the data isn't showing how many people in each country own a pet, but specific pets, what if you separated the pet categories to be side by side?       |  Could switching the columns and rows help to be able to read the countries better?           |
+|  Student 1  |    The vertical position of the country names made it difficult to read, is it possible to put them at a slant?    |     I had to think twice about whether the title meant people or households, but the subtitle helped    | 
+|  Student 2  |      Because the data adds up to over 100% and the data isn't showing how many people in each country own a pet, but specific pets, what if you separated the pet categories to be side by side?       |  Could switching the columns and rows help to be able to read the countries better?  | Is there a reason you chose to organize your data this way?- showing dogs?
 |  Student 3  |    It is difficult to differentiate between the shade of blue and green- increased contrast or intentsity would help         |             |
 
 Synthesis: 
