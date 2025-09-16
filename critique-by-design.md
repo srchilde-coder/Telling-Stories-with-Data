@@ -63,6 +63,8 @@ From this feedback from my peers, I realized that overall I had an ok visualizat
 
 All of the interviewees agreed that a version of a side by side bar chart might work better- so I tried that!
 
+I also realized in the process of embedding my tableau visualizations to this site, that I needed to adjust my tableau setting to have the visualization fit the entire page- a setting I would need to adjust for my next version.
+
 
 ## Step five: build the solution
 
