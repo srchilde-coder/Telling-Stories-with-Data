@@ -82,6 +82,8 @@ I also realized in the process of embedding my tableau visualizations to this si
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
+Berinato, Scott. "Good Charts: the HBR Guide to Making Smarter, More Persuasive Data Visualizations." Harvard Business Review Press. 2023.
+
 Few, Stephen. "Data Visualization Effectiveness Profile." *Visual Business Intelligence Newsletter*. January-March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf 
 
 "Man's best friend: global pet ownership and feeding trends." Makeover Monday. April 14, 2025. https://data.world/makeovermonday/2025-week-14-pet-ownership
