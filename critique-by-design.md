@@ -14,9 +14,22 @@ After looking through the different data sets and articles on the Makeover Monda
 
 
 ## Step two: the critique
-There were many things that I liked about this visualization:
+There were many things that I liked about this visualization: 
+- I liked the use of use of color- and the pallette- as well as the use of images/graphics to represent the dog, cat, fish, and bird categories.
+- I liked the use of gray
+- I liked how the lines connected the country names to the stats and provided a line for the stats to sit on- a nice visual line
+- I liked that this was not a typical visualization- it was kinda fun!
 
-At the same time, there were many things that were not working for this visualization.
+At the same time, there were many things that were not working for this visualization:
+-  The countries and their lines did not connect to the geographic location on the globe graphic
+-  the overwhelming amount of numbers, which did not lend themselves to comparing country's stats
+-  the countries were organized alphabetically, rather than highlighting a trend or outlier
+-  there was no storry being told
+-  The title and subtitle were not clear and I was left confused as to what these numbers actually represented- what did 'percentage of people' mean- individuals, households, did it include people who own multiple types of pets?
+
+Additionally, it was not initially clear who this data visualization was for. I clicked on it because I love dogs, but this information is not super useful to me. I had to spend time thinking who this would be helpful for- as the "article" that this graphic was in really didn't give any clues to this and was very unorganized.
+
+I figured that organization or companies in the pet industry could find this useful- like pet food/supplies stores or animal service organizations like the SPCA. Or, if someone was considering moving to another country, this would give them insight into what kinds of pets are common to own there. Still, it is a niche audience.
 
 After reading Stephan Few's model on Effective Data Visualization, I can to the conclusion that this visualization was
 
@@ -71,7 +84,7 @@ I also realized in the process of embedding my tableau visualizations to this si
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+Few, Stephan. "Data Visualization Effectiveness Profile." Visual Business Intelligence Newsletter. January-March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf 
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
