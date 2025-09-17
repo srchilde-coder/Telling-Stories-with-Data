@@ -37,7 +37,7 @@ After reading Stephen Few's model on Data Visualization Effectiveness Profile an
 I first started by writing out what I though the original graphic was trying to accomplish- comparison of countries and comparison of pets within countries. I also realized that this data was more declarative than it was exploratory, and more data driven than conceptual- which led me to categorize this data visualization as an 'Everyday Data Viz', as referenced in the Good Charts textbook. 
 
 I then moved into a few simple sketch ideas. My instinct was to do a bar chart, as this would allow the audience to make quick comparisons. 
-![IMG_6816](https://github.com/user-attachments/assets/ade0c06e-94c3-495b-bf72-2224225f3f9b | width= 500)
+![IMG_6816](https://github.com/user-attachments/assets/ade0c06e-94c3-495b-bf72-2224225f3f9b)
 
 I realized that drawing each of these by hand was not going to lead to the precision I wanted, especially with a stacked bar chart visualization model- so I turned to Tableau. 
 
