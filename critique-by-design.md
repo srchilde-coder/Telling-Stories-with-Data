@@ -86,7 +86,17 @@ I also realized in the process of embedding my tableau visualizations to this si
 
 ## Step five: build the solution
 
-I redesigned my visualization to separate the four different types of pets.
+I started to my redesign focusing on separating the stack bars into each of the different pets. I play around with switching the columns and rows, but ultimately decided on having country names as the rows so that it was easy to read, and columns as percentage of people who own each pet- sorted into 4 categories- 1 for each pet. 
+
+I decided to order the pet categories from left to right based on the highest percentages, so dog, then cat. Fish and bird were fairly even, so I kept the order from the original graphic: fish, then bird.  
+
+I also made sure to edit the percentage ranges in the y axis to be consistent for each pet. The default was to scale each percentage range differently for each pet. For example: dog when from 20% to 60%, where as fish when from 0% to 40% or so. This inconsistancy made it seem that there were just as many fish owned as dogs, which is not correct- we want to present data in a truthfull way. 
+
+I then discovered that I could sort the data by high to low or low to high percentages for each pet- which rearranged the order of the countries. I made sure to put a note of this in the caption at the bottom so audience members know they can manipulate the data and interact with it based on what they are interested in.
+
+Lastly, I decided to change the colors back to what they were in the original design. I felt that this color pallette was more calming and cohesive. The contrast of the colors in the 1st redesign was helpful since the data was so close together, but now that the pet categories were separated it felt ok to return to the original color pallette. 
+
+Here is my final redesign:
 
 <div class='tableauPlaceholder' id='viz1758125726264' style='position: relative'><noscript><a href='#'><img alt='How Does Pet Ownership differ around the World?Percentage of populations who own Dogs, Cats, Fish, and Birds ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetOwnership-Version2&#47;version2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetOwnership-Version2&#47;version2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetOwnership-Version2&#47;version2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -103,6 +113,4 @@ Few, Stephen. "Data Visualization Effectiveness Profile." *Visual Business Intel
 
 "Man's best friend: global pet ownership and feeding trends." Makeover Monday. April 14, 2025. https://data.world/makeovermonday/2025-week-14-pet-ownership
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
