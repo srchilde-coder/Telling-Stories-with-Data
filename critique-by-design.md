@@ -10,7 +10,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 
 After looking through the different data sets and articles on the Makeover Monday website, I decided to go with one that had a topic that peaked my interest- pets. This was the original data visualization.
-<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/2f42c8b4-4fb7-4d6a-a277-38e2f016f7c5" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/2f42c8b4-4fb7-4d6a-a277-38e2f016f7c5" />
 
 
 ## Step two: the critique
