@@ -38,7 +38,7 @@ I first started by writing out what I though the original graphic was trying to 
 
 I then moved into a few simple sketch ideas. My instinct was to do a bar chart, as this would allow the audience to make quick comparisons. 
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/5f206546-ea85-4b8a-a6d7-de9af2adf321" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/5f206546-ea85-4b8a-a6d7-de9af2adf321" />
 
 
 I realized that drawing each of these by hand was not going to lead to the precision I wanted, especially with a stacked bar chart visualization model- so I turned to Tableau. 
