@@ -31,7 +31,7 @@ Additionally, it was not initially clear who this data visualization was for. I 
 
 I figured that organization or companies in the pet industry could find this useful- like pet food/supplies stores or animal service organizations like the SPCA. Or, if someone was considering moving to another country, this would give them insight into what kinds of pets are common to own there. Still, it is a niche audience.
 
-After reading Stephan Few's model on Effective Data Visualization, I can to the conclusion that this visualization was
+After reading Stephen Few's model on Data Visualization Effectiveness Profile and learning about the 7 different categories that we can use to evaluate the overall effectiveness of a visualization, I realized that the original graphic wasn't really that usefull or engaging. Though the graphic was aesthetically ok and generally intuitive, it didn't do much to help audience members interpret the data or give it any meaning. There was no story. 
 
 ## Step three: Sketch a solution
 I first started by writing out what I though the original graphic was trying to accomplish- comparison of countries and comparison of pets within countries. I also realized that this data was more declarative than it was exploratory, and more data driven than conceptual- which led me to categorize this data visualization as an 'Everyday Data Viz', as referenced in the Good Charts textbook. 
@@ -42,23 +42,21 @@ I realized that drawing each of these by hand was not going to lead to the preci
 
 <div class='tableauPlaceholder' id='viz1758060552891' style='position: relative'><noscript><a href='#'><img alt='How Does Pet Ownership differ around the World?Percentage of populations who own Dogs, Cats, Fish, and Birds ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetOwnership-Version1&#47;version1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetOwnership-Version1&#47;version1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetOwnership-Version1&#47;version1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
-There were things that I ideally would fix, including changing the vertial country names to have a slant, moving the x axis lable to the bottom of the graph. 
+There were things that I ideally would fix on Tableau but wasn't sure how to do yet, including changing the vertical country names to be slanted and moving the x axis lable to the bottom of the graph. 
 
 ## Step four: Test the solution
 
-When getting feedback from my peers, I decided not to prompt them with any questions at first, but simply showing them the data visualization. My intention here was to make sure that my graphic could speak for itself. If questions naturally came up, I would immediately see which aspects could be improved.
+When getting feedback from my peers, I decided not to prompt them with any questions at first, but simply show them the data visualization. My intention here was to make sure that my graphic could speak for itself. If questions naturally came up, I would immediately see which aspects could be improved.
 
 Once I recieved feedback (listed below in the table) I asked more specific questions, like:
 
 1) Is the title clear?
-2) Does the subtitle help add context?
+2) Does the subtitle help to add context?
 3) Would it be helpful to put an example of how to interpret the graphic in the comments at the bottom? Or does this mean that the graphic cannot speak for itself?
 4) Do the percentages confuse you?
 5) Are the axises clear? Should I switch them. 
 
-
-Results: 
-
+Peer feedback:
 
 | Interviewee | Feedback 1 | Feedback 2 |
 |-------------|------------|------------|
@@ -68,9 +66,9 @@ Results:
 
 Synthesis: 
 
-From this feedback from my peers, I realized that overall I had an ok visualization and it was aligned with the story I wanted to tell. What was consistent was that the stacked bar graph wasn't working with this data, for a few reasons
-1) the data wasn't about the percentage of people who own a pet in each country, but the percentage of people who owned specific categories of pets each kind of pet
-2) the data added up to over 100%- which made sense after a few minutes, but wasn't initially intuitive as to why
+Based on this feedback from my peers, I understood that my visualization was clean and aligned with the story I wanted to tell, but, the stacked bar chart wasn't necessarily the best way to help the audience interpret the data (for the following reasons):
+1) the data wasn't about the percentage of people who own a pet in each country, but the percentage of people who owned *specific types of pets*
+2) the aggregate data added up to over 100%, which was confusing and didn't aid in the helping to tell the story of how many people own specific types of pets
 3) there was the possibility for overlap between pet categories- people could own multiple types of pets
 4) the stacked bar graph leads you to look for the country that owns the most pets, which is not what the data represents
 
@@ -84,7 +82,9 @@ I also realized in the process of embedding my tableau visualizations to this si
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-Few, Stephan. "Data Visualization Effectiveness Profile." Visual Business Intelligence Newsletter. January-March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf 
+Few, Stephen. "Data Visualization Effectiveness Profile." *Visual Business Intelligence Newsletter*. January-March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf 
+
+"Man's best friend: global pet ownership and feeding trends." Makeover Monday. April 14, 2025. https://data.world/makeovermonday/2025-week-14-pet-ownership
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
