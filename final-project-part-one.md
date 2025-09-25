@@ -1,8 +1,8 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Outline
-## **Music to the rescue in times of stress** | 
-How listening to music can help Graduate students cope with stress 
+## **Music to the rescue in times of stress** 
+### How listening to music can help Graduate students cope with stress 
 
 Graduate programs are a wonderfully rewarding experience, but they also come with high expectations, high work loads, and high amounts of stress. A 2023 study showed that 34.8% of graduate students experience some level of anxiety.^[1]
 
