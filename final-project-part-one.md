@@ -33,7 +33,7 @@ I am also interested in exploring that though different types of music have diff
 
 Graduate student stress sketches
 
-<img src="100 dots.jpeg" width="500"/>  <img src="stacked bar anxiety updated.jpeg" width="500"/>
+<img src="100 dots.jpeg" width="400"/>  <img src="stacked bar anxiety updated.jpeg" width="400"/>
 
 Music research/statistics sketches
 
@@ -42,8 +42,8 @@ Music research/statistics sketches
 
 Primary Data Results from Survey (anticipated results) sketches
 
-<img src="dot plots.jpeg" width="600"/>
-<img src="slope graph.jpeg" width="600"/>
+<img src="dot plots.jpeg" width="500"/>
+<img src="slope graph.jpeg" width="400"/>
 
 
 # The data
