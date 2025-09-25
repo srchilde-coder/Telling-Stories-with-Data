@@ -37,15 +37,12 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|  Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis    | https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2909     |    Article and study that examines the global stress levels of students in graduate programs         |
+|    Why do we listen to music? A uses and gratifications analysis  |  https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1348/000712610X506831?saml_referrer=   |   Article and study that examines reasons people- specifically adolescents- listen to music        |
+|  The Effect of Music on the Human Stress Response    | https://pmc.ncbi.nlm.nih.gov/articles/PMC3734071/    |     Artciels and study that examines how listening to music effects the body and stress response        |
+|  Music & Mental Health Survey Results |  https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results  | Kaggle dataset with survey responses on what kind of music people listen to, music listening habits, and to what level music helped mental health conditions  |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
