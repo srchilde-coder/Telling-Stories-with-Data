@@ -1,7 +1,7 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Outline
-**Music to the rescue in times of stress** | How listening to music can help Graduate students cope with stress 
+## **Music to the rescue in times of stress** | How listening to music can help Graduate students cope with stress 
 
 Graduate programs are a wonderfully rewarding experience, but they also come with high expectations, high work loads, and high amounts of stress. A 2023 study showed that 34.8% of graduate students experience some level of anxiety.^[1]
 
@@ -15,12 +15,15 @@ I am also interested in exploring that though different types of music have diff
 
 ## Rough strucutre
 1) Graduate school as a major stressor- immediate audience connection
+   
 2) Music’s super power to affect our mood, reduce stress and anxiety, and overall health
+   
 3) Data viz on collected data
     a) Current stress levels
     b) Hours listening to music
     c) Mood before listening to favorite song 
-    d) Mood after listening to favorite song 
+    d) Mood after listening to favorite song
+   
 4) Call to action: next time you are feeling stressed/pre-crash out, a good coping technique is to pop out your airpods and listen to your favorite song. 
 
 ## Story Arc
