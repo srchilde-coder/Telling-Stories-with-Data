@@ -1,7 +1,8 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Outline
-## **Music to the rescue in times of stress** | How listening to music can help Graduate students cope with stress 
+## **Music to the rescue in times of stress** | 
+How listening to music can help Graduate students cope with stress 
 
 Graduate programs are a wonderfully rewarding experience, but they also come with high expectations, high work loads, and high amounts of stress. A 2023 study showed that 34.8% of graduate students experience some level of anxiety.^[1]
 
@@ -35,7 +36,6 @@ I am also interested in exploring that though different types of music have diff
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 | Name | URL | Description |
 | ---   | --- | ---        |
@@ -47,7 +47,7 @@ Text here...
 
 I have several sources of data that I plan to pull from. The first three sources in the table are articles and studies that I will refer to for basic statistics of the findings. These stastics add credibility to my story- and why is is important for my audience to pay attention to. The fourth source is a kaggle dataset with results of the music listening and engagement habits of participants, as well as their mental health. I want to use this dataset to reinforce the concept that though there are studies on the effects of specific genres of music, ie classical music, listening to music you enjoy can also be a basic tool to help reduce stress levels. 
 
-My last source of data is data that I personally collected. 
+My last source of data is data that I personally collected. My survey included both open ended and multiple choice questions that gathered information on my collegaues overall stress levels as a grad student, how many hours they listen to music on an average day, their main motivation for listening to music, and their stress levels before and after listening to music. This is the main source of data I will use in my presentation and data visualizations. 
 
 # Method and medium
 I have almost finished collecting data from the google survey I created and sent out to my collegaues. I was able to export the responses into a google form, which I will download as an excel file and upload into tableau. I plan on using tableau to make my data visulziations. 
