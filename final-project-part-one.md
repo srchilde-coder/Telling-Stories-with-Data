@@ -40,7 +40,7 @@ Music research/statistics sketches
 ![gratification reasons color bar chart](https://github.com/user-attachments/assets/be8a578d-de6b-4418-909f-d461ad4cf726)
 
 Primary Data Results from Survey (anticipated results) sketches
-![dot plots](https://github.com/user-attachments/assets/a0732d44-f9cd-487c-9f92-06ae85b117cc)
+![dot plots](https://github.com/user-attachments/assets/a0732d44-f9cd-487c-9f92-06ae85b117cc) width= 200
 ![slope graph](https://github.com/user-attachments/assets/299041b9-4476-4a31-bfec-cb2f9978b74b)
 
 
