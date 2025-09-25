@@ -26,7 +26,6 @@ I am also interested in exploring that though different types of music have diff
    
 5) Call to action: next time you are feeling stressed/pre-crash out, a good coping technique is to pop out your airpods and listen to your favorite song. 
 
-## Story Arc
 ![Story Arc](https://github.com/user-attachments/assets/e477ef90-70a9-4f72-865f-c10d43fe587c)
 
 
