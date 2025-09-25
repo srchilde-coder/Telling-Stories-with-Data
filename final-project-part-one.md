@@ -42,8 +42,7 @@ Music research/statistics sketches
 
 Primary Data Results from Survey (anticipated results) sketches
 
-<img src="dot plots.jpeg" width="500"/>
-<img src="slope graph.jpeg" width="400"/>
+<img src="dot plots.jpeg" width="500"/>  <img src="slope graph.jpeg" width="400"/>
 
 
 # The data
