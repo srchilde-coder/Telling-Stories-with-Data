@@ -61,7 +61,9 @@ I have several sources of data that I plan to pull from. The first three sources
 My last source of data is data that I personally collected. My survey included both open ended and multiple choice questions that gathered information on my collegaues overall stress levels as a grad student, how many hours they listen to music on an average day, their main motivation for listening to music, and their stress levels before and after listening to music. This is the main source of data I will use in my presentation and data visualizations. 
 
 # Method and medium
-I have almost finished collecting data from the google survey I created and sent out to my collegaues. I was able to export the responses into a google form, which I will download as an excel file and upload into tableau. I plan on using tableau to make my data visulziations. 
+I have almost finished collecting data from the google survey I created and sent out to my collegaues. I was able to export the responses into a google form, which I will download as an excel file and upload into tableau. 
+
+I do plan on using Shorthand as my main deliverable for this story. I will embed data vizulations I make in tableau into shorthand so that they are interactive. 
 
 # Sources and Citations
 [1] Chi, T., Cheng, L., & Zhang, Z. “Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis.” *Brain and Behavior*, 13, No.4 e2909. (2023)https://doi.org/10.1002/brb3.2909  
