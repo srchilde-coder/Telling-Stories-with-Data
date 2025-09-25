@@ -38,7 +38,7 @@ Text here...
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 | Name | URL | Description |
-|------|-----|-------------|
+|-----------|--|------------|
 |  Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis    | https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2909     |    Article and study that examines the global stress levels of students in graduate programs         |
 |    Why do we listen to music? A uses and gratifications analysis  |  https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1348/000712610X506831?saml_referrer=   |   Article and study that examines reasons people- specifically adolescents- listen to music        |
 |  The Effect of Music on the Human Stress Response    | https://pmc.ncbi.nlm.nih.gov/articles/PMC3734071/    |     Artciels and study that examines how listening to music effects the body and stress response        |
