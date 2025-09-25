@@ -19,12 +19,12 @@ I am also interested in exploring that though different types of music have diff
 2) Music’s super power to affect our mood, reduce stress and anxiety, and overall health
    
 3) Data viz on collected data
-    a) Current stress levels
-    b) Hours listening to music
-    c) Mood before listening to favorite song 
-    d) Mood after listening to favorite song
+- Current stress levels
+- Hours listening to music
+- Mood before listening to favorite song
+- Mood after listening to favorite song
    
-4) Call to action: next time you are feeling stressed/pre-crash out, a good coping technique is to pop out your airpods and listen to your favorite song. 
+5) Call to action: next time you are feeling stressed/pre-crash out, a good coping technique is to pop out your airpods and listen to your favorite song. 
 
 ## Story Arc
 ![Story Arc](https://github.com/user-attachments/assets/e477ef90-70a9-4f72-865f-c10d43fe587c)
