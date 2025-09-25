@@ -29,20 +29,21 @@ I am also interested in exploring that though different types of music have diff
 
 <img src="Story Arc.jpeg" width="600"/>
 
-
-
 # Initial sketches
 
 Graduate student stress sketches
-![100 dots](https://github.com/user-attachments/assets/a599d413-a00f-4d03-aba6-21f6af1f42a9)
-![stacked bar anxiety updated](https://github.com/user-attachments/assets/dd527733-7fa0-4d0b-94f4-14960dccf875)
+
+<img src="100 dots.jpeg" width="500"/>  <img src="stacked bar anxiety updated.jpeg" width="500"/>
 
 Music research/statistics sketches
-![gratification reasons color bar chart](https://github.com/user-attachments/assets/be8a578d-de6b-4418-909f-d461ad4cf726)
+
+<img src="gratification reasons color bar chart.jpeg" width="600"/>
+
 
 Primary Data Results from Survey (anticipated results) sketches
-![dot plots](https://github.com/user-attachments/assets/a0732d44-f9cd-487c-9f92-06ae85b117cc) 
-![slope graph](https://github.com/user-attachments/assets/299041b9-4476-4a31-bfec-cb2f9978b74b)
+
+<img src="dot plots.jpeg" width="600"/>
+<img src="slope graph.jpeg" width="600"/>
 
 
 # The data
