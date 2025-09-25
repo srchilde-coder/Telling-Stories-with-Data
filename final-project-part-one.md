@@ -45,8 +45,12 @@ Text here...
 |  Music & Mental Health Survey Results |  https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results  | Kaggle dataset with survey responses on what kind of music people listen to, music listening habits, and to what level music helped mental health conditions  |
 | Music's effect on graduate student stress | https://docs.google.com/forms/d/e/1FAIpQLScKRHoswyXb2Bg1_-wIAPDFeW4is6psYGBFho48rwhR1luPQg/viewform | A google survey that I created to engage with my collegaues about their stress levels as graduate students, as well as a small experiment on stress levels before and after listening to a song of their choosing  |
 
+I have several sources of data that I plan to pull from. The first three sources in the table are articles and studies that I will refer to for basic statistics of the findings. These stastics add credibility to my story- and why is is important for my audience to pay attention to. The fourth source is a kaggle dataset with results of the music listening and engagement habits of participants, as well as their mental health. I want to use this dataset to reinforce the concept that though there are studies on the effects of specific genres of music, ie classical music, listening to music you enjoy can also be a basic tool to help reduce stress levels. 
+
+My last source of data is data that I personally collected. 
+
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I have almost finished collecting data from the google survey I created and sent out to my collegaues. I was able to export the responses into a google form, which I will download as an excel file and upload into tableau. I plan on using tableau to make my data visulziations. 
 
 # Sources and Citations
 [1] Chi, T., Cheng, L., & Zhang, Z. “Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis.” *Brain and Behavior*, 13, No.4 e2909. (2023)https://doi.org/10.1002/brb3.2909  
