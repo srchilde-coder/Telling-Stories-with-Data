@@ -41,6 +41,7 @@ Music research/statistics sketches ^[2]
 
 
 Anticipated results of primary data collection sketches
+
 *3.66 hours ^[2]
 
 <img src="dot plots.jpeg" width="500"/>  <img src="slope graph.jpeg" width="250"/>
