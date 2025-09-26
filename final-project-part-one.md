@@ -31,16 +31,17 @@ I am also interested in exploring that though different types of music have diff
 
 # Initial sketches
 
-Graduate student stress sketches
+Graduate student stress sketches ^[1]
 
 <img src="100 dots.jpeg" width="250"/>  <img src="stacked bar anxiety updated.jpeg" width="400"/>
 
-Music research/statistics sketches
+Music research/statistics sketches ^[2]
 
 <img src="gratification reasons color bar chart.jpeg" width="600"/>
 
 
-Primary Data Results from Survey (anticipated results) sketches
+Anticipated results of primary data collection sketches
+*3.66 hours ^[2]
 
 <img src="dot plots.jpeg" width="500"/>  <img src="slope graph.jpeg" width="250"/>
 
