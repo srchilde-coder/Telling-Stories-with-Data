@@ -51,11 +51,11 @@ Anticipated results of primary data collection sketches
 
 | Name | URL | Description |
 | ---   | --- | ---        |
-|  Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis    | https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2909     |    Article and study that examines the global stress levels of students in graduate programs         |
-|    Why do we listen to music? A uses and gratifications analysis  |  https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1348/000712610X506831?saml_referrer=   |   Article and study that examines reasons people- specifically adolescents- listen to music        |
-|  The Effect of Music on the Human Stress Response    | https://pmc.ncbi.nlm.nih.gov/articles/PMC3734071/    |     Artciels and study that examines how listening to music effects the body and stress response        |
-|  Music & Mental Health Survey Results |  https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results  | Kaggle dataset with survey responses on what kind of music people listen to, music listening habits, and to what level music helped mental health conditions  |
-| Music's effect on graduate student stress | https://docs.google.com/forms/d/e/1FAIpQLScKRHoswyXb2Bg1_-wIAPDFeW4is6psYGBFho48rwhR1luPQg/viewform | A google survey that I created to engage with my collegaues about their stress levels as graduate students, as well as a small experiment on stress levels before and after listening to a song of their choosing  |
+|  Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis    | (https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2909) |    Article and study that examines the global stress levels of students in graduate programs         |
+|    Why do we listen to music? A uses and gratifications analysis  |  (https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1348/000712610X506831?saml_referrer=)   |   Article and study that examines reasons people- specifically adolescents- listen to music        |
+|  The Effect of Music on the Human Stress Response    | (https://pmc.ncbi.nlm.nih.gov/articles/PMC3734071/) |     Article and study that examines how listening to music effects the body and stress response        |
+|  Music & Mental Health Survey Results |  (https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)  | Kaggle dataset with survey responses on what kind of music people listen to, music listening habits, and to what level music helped mental health conditions  |
+| Music's effect on graduate student stress | (https://docs.google.com/forms/d/e/1FAIpQLScKRHoswyXb2Bg1_-wIAPDFeW4is6psYGBFho48rwhR1luPQg/viewform) | A google survey that I created to engage with my collegaues about their stress levels as graduate students, as well as a small experiment on stress levels before and after listening to a song of their choosing  |
 
 I have several sources of data that I plan to pull from. The first three sources in the table are articles and studies that I will refer to for basic statistics of the findings. These stastics add credibility to my story and will help to convince my audience that this is a situation worth paying attention to, and could ultimately benefit them. 
 
@@ -69,13 +69,13 @@ I have almost finished collecting data from the google survey I created and sent
 I do plan on using Shorthand as my main deliverable for this story. I will embed data vizulations I make in Tableau into Shorthand so that they are interactive. 
 
 # Sources and Citations
-[1] Chi, T., Cheng, L., & Zhang, Z. “Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis.” *Brain and Behavior*, 13, No.4 e2909. (2023)https://doi.org/10.1002/brb3.2909  
+[1] Chi, T., Cheng, L., & Zhang, Z. “Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis.” *Brain and Behavior*, 13, No.4 e2909. (2023) (https://doi.org/10.1002/brb3.2909)  
 
-[2] Lonsdale, A.J. and North, A.C. “Why do we listen to music? A uses and gratifications analysis.” *British Journal of Psychology*, 102: 108-134. (2011).  https://doi.org/10.1348/000712610X506831 
+[2] Lonsdale, A.J. and North, A.C. “Why do we listen to music? A uses and gratifications analysis.” *British Journal of Psychology*, 102: 108-134. (2011). (https://doi.org/10.1348/000712610X506831)
 
-[3] Thoma, M. V., La Marca, R., Brönnimann, R., Finkel, L., Ehlert, U., & Nater, U. M. “The effect of music on the human stress response.” *PloS one*, 8(8), e70156. (2013) https://doi.org/10.1371/journal.pone.0070156 
+[3] Thoma, M. V., La Marca, R., Brönnimann, R., Finkel, L., Ehlert, U., & Nater, U. M. “The effect of music on the human stress response.” *PloS one*, 8(8), e70156. (2013) (https://doi.org/10.1371/journal.pone.0070156)
 
-[4] American Music Therapy Association. “What is Music Therapy?” About. 2005. https://www.musictherapy.org/about/musictherapy/ 
+[4] American Music Therapy Association. “What is Music Therapy?” About. 2005. (https://www.musictherapy.org/about/musictherapy/)
 
-[5] T Zaatar, M., Alhakim, K., Enayeh, M., & Tamer, R. “The transformative power of music: Insights into neuroplasticity, health, and disease.” *Brain, Behavior, & Immunity - Health*, 35, 100716. (2023). https://doi.org/10.1016/j.bbih.2023.100716
+[5] T Zaatar, M., Alhakim, K., Enayeh, M., & Tamer, R. “The transformative power of music: Insights into neuroplasticity, health, and disease.” *Brain, Behavior, & Immunity - Health*, 35, 100716. (2023). (https://doi.org/10.1016/j.bbih.2023.100716)
 
