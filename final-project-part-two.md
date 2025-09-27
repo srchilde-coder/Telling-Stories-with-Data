@@ -18,14 +18,23 @@ My target audience is:
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Clear Story   |                  |
-|  Audience connects with story- emotional response  |               |
-| Impactful Graphics    |                  |
-| Clean graphics     |                |
-|  Clear call to action    |                  |
+|   Clear Story   |     Can you summarize the main points of the story?             |
+|  Audience connects with story- emotional response  |    Did you identify with any of the statements or statistics?         |
+| Impactful Graphics    |    Would the story have been the same without the data visualizations?              |
+| Clean graphics     |       Walk me through your thoughts when you first looked at the data visualizations? Were they overwhelming?       |
+| Clear graphics  |   Can you explain to me what each graphic represents? |
+|  Clear call to action    |  What was your main take away from what you saw?            |
 
+After walking my interviewees through my story and data visualizations, I will use the following script:
 
-I will plan to ask the questions above in the following script: 
+1) Can you summarize the main points of the story?
+2) Did you feel connected to, or see yourself in any of the statistics?
+3) What would the story be like without the data visualizations
+4) What if I had only shown you the data visualizations?
+5) *looking at a dataviz* Walk me through your thoughts when looking at this data visualization? What are your feelings? Do you feel overwhelmed, confused, clarity, excited, sad?
+6) What does this graphic represent or mean to you?
+7) Is there anything that would make this graphic more clear?
+8) What was your main take away from this story? Was there anything unclear or left unsaid?
 
 
 ## Interview findings
