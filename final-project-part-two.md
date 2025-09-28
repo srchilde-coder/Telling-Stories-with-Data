@@ -5,6 +5,8 @@ insert link to short hand- see if you can embed it
 
 # User research 
 
+In order to refine my story, I took into account who my audience is and the questions I plan to ask them in order to improve the clarity and impact. 
+
 ## Target audience
 My target audience is:
 - graduate students, and therefore likely high achieving, highly motivated, and prone to stress
@@ -28,12 +30,19 @@ My target audience is:
 After walking my interviewees through my story and data visualizations, I will use the following script:
 
 1) Can you summarize the main points of the story?
+   
 2) Did you feel connected to, or see yourself in any of the statistics?
+   
 3) What would the story be like without the data visualizations
+   
 4) What if I had only shown you the data visualizations?
+   
 5) *looking at a dataviz* Walk me through your thoughts when looking at this data visualization? What are your feelings? Do you feel overwhelmed, confused, clarity, excited, sad?
-6) What does this graphic represent or mean to you?
-7) Is there anything that would make this graphic more clear?
+    
+6) *looking at a dataviz* What does this graphic represent or mean to you?
+    
+7) *looking at a dataviz*  Is there anything that would make this graphic more clear?
+    
 8) What was your main take away from this story? Was there anything unclear or left unsaid?
 
 
