@@ -58,7 +58,7 @@ Text here!
 |                         |                                |             |             |
 
 
-# Identified changes for Part III
+# Identified changes for Part III THIS IS THE MOST IMPORTANT!!!!
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
