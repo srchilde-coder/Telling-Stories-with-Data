@@ -51,8 +51,7 @@ After walking my interviewees through my story and data visualizations, I will u
 I received a ton of unstructured feedback during my "presentation" to my interviewees. A few takeaways from the more unstructured feedback included:
   - changing the color of my name from white to a darker color and the spacing/centering of the content on shorthord
   - using a different graphic for this:
-  - <iframe title="Graduate students live at a constant state of stress" aria-label="Column Chart" id="datawrapper-chart-zAad2" src="https://datawrapper.dwcdn.net/zAad2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="403" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
-</script>
+  <iframe title="Graduate students live at a constant state of stress" aria-label="Column Chart" id="datawrapper-chart-zAad2" src="https://datawrapper.dwcdn.net/zAad2/1/" scrolling="no" frameborder="0" style="border: none;" width="300" height="200" data-external="1"></iframe>
 
 Text here!
 
