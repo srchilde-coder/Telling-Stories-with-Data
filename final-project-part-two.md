@@ -52,15 +52,21 @@ I received a ton of unstructured feedback during my "presentation" to my intervi
   - changing the color of my name from white to a darker color and the spacing/centering of the content on shorthord
   - using a different graphic for this:
 <div style="min-height:403px" id="datawrapper-vis-zAad2"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/zAad2/embed.js" charset="utf-8" data-target="#datawrapper-vis-zAad2"></script><noscript><img src="https://datawrapper.dwcdn.net/zAad2/full.png" width="500" height="400" alt="Graduate students live at a constant state of stress (Column Chart)" /></noscript></div>
+  - using a different title and lables for this graphic:
+  <div style="min-height:392px" id="datawrapper-vis-QsDTq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/QsDTq/embed.js" charset="utf-8" data-target="#datawrapper-vis-QsDTq"></script><noscript><img src="https://datawrapper.dwcdn.net/QsDTq/full.png" width="500" height="400" "alt="Why listen to music? (Stacked column chart)" /></noscript></div>
+  - adding more visuals/pictures to help break up the text and make it more visually interesting
 
-Text here!
+  After walking through the shorthard and data visualization I made, I went back and asked some of my initially planned questions
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interviewee A | Interviewee B | Interviewee C |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Can you summarize the main points of the story/the main takeaway | Yes- absolutley!      |  Music can really help with stress.           |    I should go listen to some music!         |
+| Did you feel connected or see yourself in any of the data or stats?   |      Yes. As a grad student absolutely                          |   Yes!          |   Oh yes, especially with the numbers identifying levels of stress. I know what it feels like to be at an 8 versus a 4.          |
+| Would the story have felt the same without the data visualizations?    |    Oh no! There would have been far to much text       |    I might have gotten it, but this was more engaging.         |   The visuals really made the story understandable immediately.          |
+| If I had only shown you data visualizations, would you have understood the story?  |  Yes, absolutely  |  Yes!  | Your visuals were super strong! I really liked them |
+| Take me through your thought process for this visualization (referring to the stacked bar chart 'Why Listen to Music') | The graphic title was a little confusing at first | The horizontal spread was confusing to me, I didn't see why and the info didn't connect to that graphic, maybe a different type of chart or visual |  Yah the title didn't show that these reasons for listening to music were the subject's number one reason. So maybe showing a bar chart rather than a stacked bar chart might be better? |
 
+Though I had planned structured interview questions, my interviewees were excited to give me feedback immediately while it was fresh on their brains looking at it. So really that is where I got the most valuable feedback: my story is good and impactful, the overall design is good, but a few data visualizations needed changing form to better aide my story- the type of chart themselves as well as a few titles. 
 
 # Identified changes for Part III THIS IS THE MOST IMPORTANT!!!!
 > Document the changes you plan on implementing next week to address any issues identified.  
