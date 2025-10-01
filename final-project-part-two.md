@@ -77,24 +77,20 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| My titles need to be more clear and contribute to my story, not just state what the data is showing | I will change my graphic title for 'Reasons People Listen to Music' to represent that these 'reasons' were people's number one/main motivator for listening to music |
-| A few of my graphics are not the best type for representing my data      |  Use additional graphic design resources besides Tableau or Datawrapper to create visuals that are more simple and help tell the story, rather than just presenting the data I found. Experiment with different types of graphics for the 'Reasons People Listen to Music' visualization   |
-|   Labels and axes could be more clear/present/bold    |    Edit axes to include more context, keys, bold format, etc.        |
-|    Pictures will help add to the story/break up the text and blank space     |     Add in more visuals/pictures in addition to my visualization, but not too many, because I want the presentation to be clean and calm   |
+| My titles need to be more clear and contribute to my story, not just state what the data is showing. | I will change my graphic title for 'Reasons People Listen to Music' to represent that these 'reasons' were people's number one/main motivator for listening to music. |
+| A few of my graphics are not the best type for representing my data.      |  Use additional graphic design resources besides Tableau or Datawrapper to create visuals that are more simple and help tell the story, rather than just presenting the data I found. Experiment with different types of graphics for the 'Reasons People Listen to Music' visualization.   |
+|   Labels and axes could be more clear/present/bold.    |    Edit axes to include more context, keys, bold format, etc.        |
+|    There's alot of blank space and text.     |     Add in more visuals/pictures in addition to my visualization, but not too many, because I want the presentation to be clean and calm   |
 
 
-> ...include any final thoughts you have here. 
+Overall, these interviews provided me with *extremely* valuable feedback that I feel I will be able to implement quickly and easily. From what I could tell, my story is strong and my audience members will connect with it; there's just a few tweaks I need to make to my data visualizations, as well as more information/text to add to connect those visualizations. 
 
-Text here!
+I feel much better about my progress after these interviews than I did going into them- which is always nice. 
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+Though I didn't do a formal moodboard, when starting to design my shorthand, I knew that I wanted a clean, simple, calm design because my whole story is about using music to reduce stress levels. 
 
-Text here!
+So I immediatley edited out the bright purple and yellow from the original design to be a calm, cool tone blue with dark gray and black text. I centered most of the content to keep eye travel to a minimum. I also prioritized using neautral colors for my visualization (other than a few alert colors that I felt would stand out and catch the auidences' attention). I was very purposeful in paring down the 'bright and shiny' elements in shorthand to keep things simple and clear. 
 
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+# References
 
