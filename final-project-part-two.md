@@ -77,11 +77,11 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| My titles need to be more clear and contribute to my story, not just state what the data is showing | I will change my graphic title for 'Reasons People Listen to Music' to represent that these 'reasons' were people's number one/main motivator for listening to music |
+| A few of my graphics are not the best type for representing my data      |  Use additional graphic design resources besides Tableau or Datawrapper to create visuals that are more simple and help tell the story, rather than just presenting the data I found. Experiment with different types of graphics for the 'Reasons People Listen to Music' visualization   |
+|   Labels and axes could be more clear/present/bold    |    Edit axes to include more context, keys, bold format, etc.        |
+|    Pictures will help add to the story/break up the text and blank space     |     Add in more visuals/pictures in addition to my visualization, but not too many, because I want the presentation to be clean and calm   |
+
 
 > ...include any final thoughts you have here. 
 
