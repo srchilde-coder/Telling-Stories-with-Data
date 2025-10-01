@@ -72,10 +72,8 @@ A few takeaways from the more unstructured feedback included:
 
 These questions were a good way to summarize our feedback/interview session, but really, the initial presentation and walk through is where I got the most valuable feedback: my story is good and impactful, the overall design choices are good, but a few data visualizations needed revision to better aide my story- the type of chart themselves as well as a few titles. 
 
-# Identified changes for Part III THIS IS THE MOST IMPORTANT!!!!
-> Document the changes you plan on implementing next week to address any issues identified.  
+# Identified changes for Part III 
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
