@@ -1,7 +1,8 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-insert link to short hand- see if you can embed it
+Link to Shorthand: (https://preview.shorthand.com/OmrFH7vRAVEpA5C0)
+*not all references/citations have been added to the shorthand yet, but are listed below and in part I*
 
 # User research 
 
