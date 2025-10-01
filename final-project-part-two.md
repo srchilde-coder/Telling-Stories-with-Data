@@ -47,7 +47,10 @@ After walking my interviewees through my story and data visualizations, I will u
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+
+I received a ton of unstructured feedback during my "presentation" to my interviewees. A few takeaways from the more unstructured feedback included:
+  - changing the color of my name from white to a darker color and the spacing/centering of the content on shorthord
+  - using a different graphic for this: <div style="min-height:403px" id="datawrapper-vis-zAad2"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/zAad2/embed.js" charset="utf-8" data-target="#datawrapper-vis-zAad2"></script><noscript><img src="https://datawrapper.dwcdn.net/zAad2/full.png" alt="Graduate students live at a constant state of stress (Column Chart)" /></noscript></div>
 
 Text here!
 
