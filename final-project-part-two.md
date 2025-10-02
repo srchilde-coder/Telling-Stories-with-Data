@@ -50,14 +50,21 @@ After walking my interviewees through my story and data visualizations, I will u
 
 ## Interview findings
 
-I received a ton of unstructured feedback during my "presentation" to my interviewees. When I came to each data visualization, they had super quick bites of feedback- so we speant a majority of our time giving and getting feedback in this way, rather than the more structured interview questions I had planned- whichi was totally fine- in fact, it was probably more helpful because they found things that I hadn't thought to ask questions on!
+I received a ton of unstructured feedback during my "presentation" to my interviewees. When I came to each data visualization, they had super quick bites of feedback- so we speant a majority of our time giving and getting feedback in this way, rather than the more structured interview questions I had planned- which was totally fine- in fact, it was probably more helpful because they found things that I hadn't thought to ask questions on!
 
-A few takeaways from the more unstructured feedback included:
+A few takeaways from the unstructured feedback included:
+
   - changing the color of my name from white to a darker color and the spacing/centering of the content on shorthord
+    
   - using a different graphic for this:
+    
 <div style="min-height:403px" id="datawrapper-vis-zAad2"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/zAad2/embed.js" charset="utf-8" data-target="#datawrapper-vis-zAad2"></script><noscript><img src="https://datawrapper.dwcdn.net/zAad2/full.png" width="500" height="400" alt="Graduate students live at a constant state of stress (Column Chart)" /></noscript></div>
+
+
   - using a different title and lables for this graphic:
+  - 
   <div style="min-height:392px" id="datawrapper-vis-QsDTq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/QsDTq/embed.js" charset="utf-8" data-target="#datawrapper-vis-QsDTq"></script><noscript><img src="https://datawrapper.dwcdn.net/QsDTq/full.png" width="500" height="400" "alt="Why listen to music? (Stacked column chart)" /></noscript></div>
+  
   - adding more visuals/pictures to help break up the text and make it more visually interesting
 
   After walking through the shorthard and data visualizations I made, I went back and asked some of my initially planned questions:
