@@ -93,4 +93,19 @@ Though I didn't do a formal moodboard, when starting to design my shorthand, I k
 So I immediatley edited out the bright purple and yellow from the original design to be a calm, cool tone blue with dark gray and black text. I centered most of the content to keep eye travel to a minimum. I also prioritized using neautral colors for my visualization (other than a few alert colors that I felt would stand out and catch the auidences' attention). I was very purposeful in paring down the 'bright and shiny' elements in shorthand to keep things simple and clear. 
 
 # References
+[1] Chi, T., Cheng, L., & Zhang, Z. “Global prevalence and trend of anxiety among graduate students: A systematic review and meta-analysis.” Brain and Behavior, 13, No.4 e2909. (2023) (https://doi.org/10.1002/brb3.2909)
 
+[2] Lonsdale, A.J. and North, A.C. “Why do we listen to music? A uses and gratifications analysis.” British Journal of Psychology, 102: 108-134. (2011). (https://doi.org/10.1348/000712610X506831)
+
+[3] Thoma, M. V., La Marca, R., Brönnimann, R., Finkel, L., Ehlert, U., & Nater, U. M. “The effect of music on the human stress response.” PloS one, 8(8), e70156. (2013) (https://doi.org/10.1371/journal.pone.0070156)
+
+[4] American Music Therapy Association. “What is Music Therapy?” About. 2005. (https://www.musictherapy.org/about/musictherapy/)
+
+[5] T Zaatar, M., Alhakim, K., Enayeh, M., & Tamer, R. “The transformative power of music: Insights into neuroplasticity, health, and disease.” Brain, Behavior, & Immunity - Health, 35, 100716. (2023). (https://doi.org/10.1016/j.bbih.2023.100716)
+
+# Resources
+- Shorthand
+- Datawrapper
+- Google Surveys/Quiz
+- Excel 
+- Canva
