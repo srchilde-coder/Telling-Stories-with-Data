@@ -62,8 +62,8 @@ A few takeaways from the unstructured feedback included:
 
 
   - using a different title and lables for this graphic:
-  - 
-  <div style="min-height:392px" id="datawrapper-vis-gxu75"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gxu75/embed.js" charset="utf-8" data-target="#datawrapper-vis-gxu75"></script><noscript><img src="https://datawrapper.dwcdn.net/gxu75/full.png" alt="Why listen to music? (Stacked column chart)" /></noscript></div>
+
+  <div style="min-height:392px" id="datawrapper-vis-gxu75"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gxu75/embed.js" charset="utf-8" data-target="#datawrapper-vis-gxu75"></script><noscript><img src="https://datawrapper.dwcdn.net/gxu75/full.png" width= "400" height= "500" alt="Why listen to music? (Stacked column chart)" /></noscript></div>
   
   - adding more visuals/pictures to help break up the text and make it more visually interesting
 
