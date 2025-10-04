@@ -58,12 +58,12 @@ A few takeaways from the unstructured feedback included:
     
   - using a different graphic for this:
     
-<div style="min-height:392px" id="datawrapper-vis-gxu75"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gxu75/embed.js" charset="utf-8" data-target="#datawrapper-vis-gxu75"></script><noscript><img src="https://datawrapper.dwcdn.net/gxu75/full.png" alt="Why listen to music? (Stacked column chart)" /></noscript></div>
+<div style="min-height:403px" id="datawrapper-vis-zAad2"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/zAad2/embed.js" charset="utf-8" data-target="#datawrapper-vis-zAad2"></script><noscript><img src="https://datawrapper.dwcdn.net/zAad2/full.png" width= "500" heigh= "400" t="Graduate students live at a constant state of stress (Column Chart)" /></noscript></div>
 
 
   - using a different title and lables for this graphic:
   - 
-  <div style="min-height:392px" id="datawrapper-vis-QsDTq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/QsDTq/embed.js" charset="utf-8" data-target="#datawrapper-vis-QsDTq"></script><noscript><img src="https://datawrapper.dwcdn.net/QsDTq/full.png" width="500" height="400" "alt="Why listen to music? (Stacked column chart)" /></noscript></div>
+  <div style="min-height:392px" id="datawrapper-vis-gxu75"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gxu75/embed.js" charset="utf-8" data-target="#datawrapper-vis-gxu75"></script><noscript><img src="https://datawrapper.dwcdn.net/gxu75/full.png" alt="Why listen to music? (Stacked column chart)" /></noscript></div>
   
   - adding more visuals/pictures to help break up the text and make it more visually interesting
 
