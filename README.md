@@ -12,6 +12,7 @@ Hi! My name is Samantha Childers and I am a current Master of Arts Management st
 Prior to attending CMU, I taught high school chorus in North Carolina for 6 years. I also did a significant amount of work with Community arts, including community youth musical theater. I began to picture a new career for myself, one where I could expand my reach and impact within communities, while still continuing to work in music education and performance. My goal coming out of my Masters degree is to work in a performing arts nonprofit organization, potentially in education, community outreach, development, or even operations. I am using my time at CMU to learn as much as I can and to engage in all unique experiences possible. 
 
 
+
 # What I hope to learn
 
 1. What types of graphcis work best for different types of data or fields
@@ -29,13 +30,7 @@ Data Visualizations, Critques, and redesign examples can be seen by clicking on 
 Here it might be helpful to include a high-level description of your final project. 
 
 
----
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-![1](https://github.com/user-attachments/assets/ca0d6929-4e58-4d05-8eff-81ede4559cd7)
- 
+--- 
 
 ## References
 _List any references you used here._
