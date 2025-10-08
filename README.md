@@ -11,7 +11,7 @@ Hi! My name is Samantha Childers and I am a current Master of Arts Management st
 
 Prior to attending CMU, I taught high school chorus in North Carolina for 6 years. I also did a significant amount of work with Community arts, including community youth musical theater. I began to picture a new career for myself, one where I could expand my reach and impact within communities, while still continuing to work in music education and performance. My goal coming out of my Masters degree is to work in a performing arts nonprofit organization, potentially in education, community outreach, development, or even operations. I am using my time at CMU to learn as much as I can and to engage in all unique experiences possible. 
 
-<img src="IMG_3810.JPG" width="600"/>
+<img src="IMG_3810.JPG" width="600" height= "400"/>
 
 
 # What I hope to learn
