@@ -2,7 +2,7 @@
 
 
 # Portfolio
-> This is my public portfolio for Telling Stories with Data, a course at Carnegie Mellon University's Heinz College. Here you will be able to see my growth and deliverables in using data visualizations to tell a story. 
+> This is my public portfolio for Telling Stories with Data, a course at Carnegie Mellon University's Heinz College. Here you will be able to see my growth and deliverables in using data visualizations to tell a story. >
 
 - Web page URL: https://srchilde-coder.github.io/Telling-Stories-with-Data/
   
