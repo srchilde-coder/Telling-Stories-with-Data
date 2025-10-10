@@ -8,6 +8,8 @@
 After looking through the different data sets and articles on the Makeover Monday website, I decided to go with one that had a topic that peaked my interest- pets. This was the original data visualization.
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/2f42c8b4-4fb7-4d6a-a277-38e2f016f7c5" />
 
+Source: “Man’s best friend: global pet ownership and feeding trends.” Makeover Monday. April 14, 2025. https://data.world/makeovermonday/2025-week-14-pet-ownership
+
 
 ## Step two: the critique
 There were many things that I liked about this visualization: 
@@ -37,6 +39,7 @@ I then moved into a few simple sketch ideas. My instinct was to do a bar chart, 
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/5f206546-ea85-4b8a-a6d7-de9af2adf321" />
 
 
+
 I realized that drawing each of these by hand was not going to lead to the precision I wanted, especially with a stacked bar chart visualization model- so I turned to Tableau. 
 
 <div class='tableauPlaceholder' id='viz1758078085831' style='position: relative'><noscript><a href='#'><img alt='How Does Pet Ownership differ around the World?Percentage of populations who own Dogs, Cats, Fish, and Birds ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetOwnership-Version1&#47;version1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetOwnership-Version1&#47;version1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetOwnership-Version1&#47;version1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
@@ -49,7 +52,10 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);            
 </script>
 
+
+
 There were things that I ideally would fix on Tableau but wasn't sure how to do yet, including changing the vertical country names to be slanted and moving the x axis lable to the bottom of the graph. 
+
 
 ## Step four: Test the solution
 
