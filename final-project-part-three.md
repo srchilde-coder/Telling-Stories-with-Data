@@ -20,7 +20,7 @@ I also debated for a while on whether or not to add song suggestions or a playli
 
 
 
-## The audience
+# The audience
 Because my audience is graduate students, I know that they are used to seeing high levels of research and data from a variety of fields. Because I am presenting this during finals week, and because of the complex nature of the results of research on my topic, I didn't want to overcomplicate things. I wanted to put MY narrative at the center of my project and a simple, calm take away for my classmates- and maybe even one that could help them out during finals week.
 
 
