@@ -10,9 +10,9 @@
 >
 > I also adjusted the arrow colors for the modified dot plot (the one that shows stress levels before and after listening to music), to match the bright blue from the bar chart above. This helped to bring cohesion to the graphics as well as help the numbers/findings stand out a bit more.
 >
-> The other big things I did was make sure that stand alone data points- mostly percentages, averages, etc- were large enough, bolded, and centered. Though these data points are not a chart, I want my audience to be able to see those points clearly, rather than hiding them in a paragraph of text.
+> The other big things I did was make sure that stand alone data points/shout out stats- mostly percentages, averages, etc- were large enough, bolded, and centered. Though these data points are not a chart, I want my audience to be able to see those points clearly, rather than hiding them in a paragraph of text.
 >
-> The biggest change I made from Part II to III has been adding in the narrative text arround my data visualizations. This narrative is absolutley necessary for a 1 minute presentation, but on its own I think my narrative paints a nice picture of the story I am telling, as well as why this story is important to me. My project topic was not an overly complicated one. And though this topic is backed by research, most of the research is looking into very specific elements, for example cortisol levels in saliva. For my audience, I wanted to make sure they knew that I had talked to people like them- which is why I decided to collect my own primary data. It is a simple story. And while there are research studies on which music you can listen to in order to lower your stress levels, everyone is different.
+> The biggest change I made from Part II to III has been adding in the narrative text arround my data visualizations. My project topic was not an overly complicated one, but one that was personal to me. Because of that, the text I add in very much in a narrative/story telling form. And though this topic is backed by research, most of the research is looking into very specific elements, for example cortisol levels in saliva. For my audience, I wanted to make sure they knew that I had talked to people like them- which is why I decided to collect my own primary data. 
 >
 > After receiving feedback from Part II and after my 1 minute presentation, I understood that my Call to Action needed to be stronger. I linked the main sources I used in my research with a short description like 'want to learn more about the iso principal- read more here'. I felt like this was a simple way to give my audience members quick access to learn more.
 >
@@ -26,8 +26,9 @@
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
+> I enjoyed working through this project. It challenged me to think outside the box when datasets were not immediately popping out to me. In the Arts field, we use quantitative data regularly, but I had a hard time finding this data in the exact format we had been using in class- excel or csv files that are already cleaned and ready to pop into a program like Tableau.
+>
+> This project expanded my knowledge and proficiency in technical resources, like datawrapper and shorthand. This project also taught me to trust my gut. There were a few more abstract visualizations I wanted to include (like unit charts and dot plots) that I was struggling to create in Tableau and Datawrapper. And though I wanted to use these new technologies, I wanted to make sure that my data visualizations were actually ehancing my story and were just the ones I could figure out how to do in Datawrapper. In other words, I didn't want to limit myself to what the online tools could pop out. I kept saying to myself- if I could just draw this and have it look nice, that would be perfect. My decision to create these simple data visualizations in Canva was a break through for me and made me feel like I had more control over my story and graphics. 
+>
+> Overall, my project topic and call to action was fairly simple. But, it was highly personal and pulled on my own experiences and knowledge- as seen by the lack of citations at the beginning of my shorthand- this was all my knowledge. I appreciated the feedback around my call to action and felt that I was able to strength it by providing various resources right at the end for my audience. 
 
