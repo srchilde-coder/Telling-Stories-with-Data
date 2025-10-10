@@ -2,7 +2,7 @@
 
 
 # Portfolio
-> This is my public portfolio for Telling Stories with Data, a course at Carnegie Mellon University's Heinz College. Here you will be able to see my growth and deliverables in using data visualizations to tell a story. 
+This is my public portfolio for Telling Stories with Data, a course at Carnegie Mellon University's Heinz College. Here you will be able to see my growth and deliverables in using data visualizations to tell a story. 
 
 Web page URL: https://srchilde-coder.github.io/Telling-Stories-with-Data/
   
@@ -26,11 +26,11 @@ Data Visualizations, Critques, redesign examples, as well as my final project (a
 
 
 ## Final project
-> My final project is a blending of two major aspects of my life: graduate school and music. Having taught high school chorus for 6 years and being a professional musician, I deeply depend on music to help me navigate life- through exciting times, stressful times, and as a way to relate to my peers. Having completed 1 full year (and one half semester) of my Masters degree, I have experienced first hand the pressure and stress that comes with a graduate degree- especially at such an academicly rigorous program like CMU and Heinz College. So I decided to use my final project to combine the two experiences: how might listening to music help graduate students reduce their stress levels?
->
-> Though there is research on music's specific effects on the body and brain, much of this field of study is new and much of the research and results are highly complex. Databases of results weren't as easy to find as I had hoped, so I decided that I would collect my own data from my colleagues through a simple survey.
->
-> My final project, which is accessible through a link on the 'Final Project III tab', tells the story of this process and communicates my findings through what I believe to be clean and clear data visualizations. 
+My final project is a blending of two major aspects of my life: graduate school and music. Having taught high school chorus for 6 years and being a professional musician, I deeply depend on music to help me navigate life- through exciting times, stressful times, and as a way to relate to my peers. Having completed 1 full year (and one half semester) of my Masters degree, I have experienced first hand the pressure and stress that comes with a graduate degree- especially at such an academicly rigorous program like CMU and Heinz College. So I decided to use my final project to combine the two experiences: how might listening to music help graduate students reduce their stress levels?
+
+Though there is research on music's specific effects on the body and brain, much of this field of study is new and much of the research and results are highly complex. Databases of results weren't as easy to find as I had hoped, so I decided that I would collect my own data from my colleagues through a simple survey.
+
+My final project, which is accessible through a link on the 'Final Project III tab', tells the story of this process and communicates my findings through what I believe to be clean and clear data visualizations. 
 
 --- 
 
