@@ -30,7 +30,7 @@ Data Visualizations, Critques, redesign examples, as well as my final project (a
 >
 > Though there is research on music's specific effects on the body and brain, much of this field of study is new and much of the research and results are highly complex. Databases of results weren't as easy to find as I had hoped, so I decided that I would collect my own data from my colleagues through a simple survey.
 >
-> My final project, which is accessible through a link on the 'Final Project Part III tab', tells the story of this process and communicates my findings through what I believe to be clean and clear data visualizations. 
+> My final project, which is accessible through a link on the 'Final Project III tab', tells the story of this process and communicates my findings through what I believe to be clean and clear data visualizations. 
 
 --- 
 
@@ -46,4 +46,5 @@ A few specific resources that I found useful throughout this class have been:
 
 ## AI acknowledgements
 Microsoft Co-Pilot was used for 'Data visualization critique #1', September 2025. 
+
 
