@@ -1,9 +1,9 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-> (https://preview.shorthand.com/OmrFH7vRAVEpA5C0)
+> [https://preview.shorthand.com/OmrFH7vRAVEpA5C0](https://carnegiemellon.shorthandstories.com/musics-effect-on-graduate-student-stress-levels/index.html)
 
-Text here!
+
 
 # Changes made since Part II
 > Since Part II, I have made quite a few adjustments to my data visualizations, particularly the bar graph representing my colleagues top motivations for listening to music. Here I changed the title to cue the audience in right away that mood and stress were the top 2 motivators for my colleagues. I also changed those two bars to a bright blue color and the others to a gray to highlight them even more.
